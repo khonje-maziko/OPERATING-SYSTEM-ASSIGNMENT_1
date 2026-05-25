@@ -1,8 +1,4 @@
-[5/25/2026 10:04 AM] haji: # ═══════════════════════════════════════════════════════════
-# EduOS Gantt Chart Generator
-# Student: Hajj Sulaiman | Reg: 25311351025
-# Module: 351 CS 2104 — Operating Systems
-# ═══════════════════════════════════════════════════════════
+
 
 import matplotlib
 matplotlib.use("Agg")
